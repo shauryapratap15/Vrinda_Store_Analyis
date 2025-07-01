@@ -18,7 +18,7 @@ To provide a quick visual summary of:
 - Highest selling product categories
 
 📸 Dashboard Preview
-![Dashboard Preview](screenshots/Vrinda_Dashboard.png)
+![Dashboard Preview](screenshots/vrinda_dashboard.png)
 
  💡 Insights Discovered
 - Amazon generated the highest sales volume.
